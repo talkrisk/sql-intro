@@ -39,4 +39,4 @@
 -- | Washington Nationals          | 78.0             |
 -- +-------------------------------+------------------+
 
-
+SELECT teams AVG wins FROM years MIN 2000 Max 2022; 
